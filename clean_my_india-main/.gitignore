@@ -72,3 +72,9 @@ coverage/
 DEPLOYMENT.md
 TODO.md
 API_TEST.md
+
+node_modules/
+tfjsenv/
+tfjs_model/
+imageclassifier.h5
+__pycache__/
